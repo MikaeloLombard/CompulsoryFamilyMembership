@@ -1,2 +1,2 @@
 # CompulsoryFamilyMembership
-Giving purpose + humor, to a lab Challenge. 
+Giving purpose + humor, to a lab challenge. 
